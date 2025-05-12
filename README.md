@@ -1,2 +1,2 @@
 # DataGovernance
-Data governance materials and presentations
+Data governance materials and presentations prepared by me including materials to support a major database migration from Oracle to PostgeSQL. I led that effort for USFS Region 9 and 15 Units. I was the Data Governance lead for Region 9 and prepared and presented several data governance presentations. My Data Governance psotion included the SDE Adminisrater responsibilities for the entire region.
